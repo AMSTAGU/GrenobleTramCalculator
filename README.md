@@ -1,6 +1,6 @@
 # Grenoble Tram Calculator
 
-[Grenoble Tram Calculator](https://amstagu.github.io/r4a10-tp-api-2025-gaua/) à été crée en solo à titre pédagogique dans le cadre d'introduction à l'utilisation d'APIs. Il répond à l’un de mes besoins : obtenir un décompte du temps avant l’arrivée du tram que je dois prendre, en fonction de mon heure d’arrivée souhaitée.
+[Grenoble Tram Calculator](https://github.com/AMSTAGU/GrenobleTramCalculator) à été crée en solo à titre pédagogique dans le cadre d'introduction à l'utilisation d'APIs. Il répond à l’un de mes besoins : obtenir un décompte du temps avant l’arrivée du tram que je dois prendre, en fonction de mon heure d’arrivée souhaitée.
 
 ## Sommaire
 
